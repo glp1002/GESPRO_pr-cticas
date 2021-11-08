@@ -1,2 +1,2 @@
-# GESPRO_pr-cticas
+# GESPRO_practicas
 Practicas de clase
